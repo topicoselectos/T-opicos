@@ -6,7 +6,15 @@ namespace Tópicos.calentamiento
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            DoJob();
+            
+            
+        }
+
+        private static void DoJob()
+        {
+            var laClase = new Job();
+            laClase.Do();
         }
     }
 }

@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/Tópicos/Tópicos.calentamiento/bin/Debug/netcoreapp3.1
+/Tópicos/Tópicos.calentamiento/obj
+/Tópicos/Topicos.Utilitarios/bin/Debug/netcoreapp3.1
+/Tópicos/Topicos.Utilitarios/obj
+/Tópicos/.vs/Tópicos/v16
