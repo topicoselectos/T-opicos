@@ -1,0 +1,5 @@
+C:\Users\edwardarce2000\source\repos\T-opicos\Tópicos\Topicos.NorthWind.BaseDatos\bin\Debug\netcoreapp3.1\Topicos.NorthWind.BaseDatos.deps.json
+C:\Users\edwardarce2000\source\repos\T-opicos\Tópicos\Topicos.NorthWind.BaseDatos\bin\Debug\netcoreapp3.1\Topicos.NorthWind.BaseDatos.dll
+C:\Users\edwardarce2000\source\repos\T-opicos\Tópicos\Topicos.NorthWind.BaseDatos\obj\Debug\netcoreapp3.1\Topicos.NorthWind.BaseDatos.csprojAssemblyReference.cache
+C:\Users\edwardarce2000\source\repos\T-opicos\Tópicos\Topicos.NorthWind.BaseDatos\obj\Debug\netcoreapp3.1\Topicos.NorthWind.BaseDatos.AssemblyInfoInputs.cache
+C:\Users\edwardarce2000\source\repos\T-opicos\Tópicos\Topicos.NorthWind.BaseDatos\obj\Debug\netcoreapp3.1\Topicos.NorthWind.BaseDatos.AssemblyInfo.cs
