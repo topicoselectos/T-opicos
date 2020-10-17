@@ -10,3 +10,5 @@
 /Tópicos/.vs/Tópicos/v16
 /Tópicos/.vs/Tópicos/DesignTimeBuild
 /Tópicos/Topicos.NorthWind.BaseDatos/obj/Debug/netcoreapp3.1/Topicos.NorthWind.BaseDatos.csproj.CoreCompileInputs.cache
+/Tópicos/Topicos.NorthWind.BL/obj
+/Tópicos/Topicos.NorthWind.BL/bin/Debug/netcoreapp3.1
