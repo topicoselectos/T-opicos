@@ -11,8 +11,8 @@ namespace Topicos.NorthWind.BaseDatos.Models
             get
             {
                 short? elResultado = 0;
-                if (UnitsInStock < ReorderLevel)
-                    elResultado = (short?)(UnitsInStock - ReorderLevel);
+                if (UnitsInStock < ReorderLevel) //
+                    elResultado = (short?)(UnitsInStock - ReorderLevel); //Para que traiga el valor correcto
                 return elResultado;
             }
             set
@@ -26,7 +26,7 @@ namespace Topicos.NorthWind.BaseDatos.Models
                 string elResultado = string.Empty;
                 if (Supplier != null)
                 {
-                    elResultado = Supplier.CompanyName;
+                    elResultado = Supplier.CompanyName; //Nos trae el Nombre de la compania
                 }
                 return elResultado;
             }
