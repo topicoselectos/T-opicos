@@ -6,7 +6,7 @@ using Topicos.NorthWind.BaseDatos.Models;
 
 namespace Topicos.NorthWind.BL.Services
 {
-    class Products : iProducts
+    public class Products : iProducts
     {
         public NorthWind.BaseDatos.Models.Products ObtenerProductosporID(int id)
         {

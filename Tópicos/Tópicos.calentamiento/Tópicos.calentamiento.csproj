@@ -6,6 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Topicos.NorthWind.BaseDatos\Topicos.NorthWind.BaseDatos.csproj" />
+    <ProjectReference Include="..\Topicos.NorthWind.BL\Topicos.NorthWind.BL.csproj" />
     <ProjectReference Include="..\Topicos.Utilitarios\Topicos.Utilitarios.csproj" />
   </ItemGroup>
 
